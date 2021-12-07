@@ -20,4 +20,4 @@ I dealt with the Korean grammatical evaluation with using KoBERT pre-trained by 
 
 Since copyright of all datasets(Train, Dev and Test) of this project belongs to National Institute of Korean Language, I don't upload them.
 
-In conclusion, Mathew's Corr of my codes was recorded at 0.31, which was not so competitive that I could not take any prizes. Although the contest was over, I'm upgrading my codes continually to improve Mathew's Corr.
+In conclusion, Matthew's Corr of my codes was recorded at 0.31, which was not so competitive that I could not take any prizes. Although the contest was over, I'm upgrading my codes continually to improve Matthew's Corr.
